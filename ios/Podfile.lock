@@ -1,0 +1,126 @@
+PODS:
+  - audio_streamer (0.0.1):
+    - Flutter
+  - AudioKit (4.11.2):
+    - AudioKit/Core (= 4.11.2)
+    - AudioKit/UI (= 4.11.2)
+  - AudioKit/Core (4.11.2)
+  - AudioKit/UI (4.11.2):
+    - AudioKit/Core
+  - camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_sequencer (0.0.1):
+    - AudioKit
+    - Flutter
+  - "flutter_sound (6.4.8+2)":
+    - Flutter
+    - mobile-ffmpeg-audio (= 4.3.1.LTS)
+    - "tau_sound_core (= 6.4.8+2)"
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - gallery_saver (0.0.1):
+    - Flutter
+  - hardware_buttons (0.0.1):
+    - Flutter
+  - headset_connection_event (0.0.1):
+    - Flutter
+  - mobile-ffmpeg-audio (4.3.1.LTS)
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - pitchdetector (0.0.1):
+    - Flutter
+  - screen (0.0.1):
+    - Flutter
+  - share (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - "tau_sound_core (6.4.8+2)"
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_streamer (from `.symlinks/plugins/audio_streamer/ios`)
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_sequencer (from `.symlinks/plugins/flutter_sequencer/ios`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - gallery_saver (from `.symlinks/plugins/gallery_saver/ios`)
+  - hardware_buttons (from `.symlinks/plugins/hardware_buttons/ios`)
+  - headset_connection_event (from `.symlinks/plugins/headset_connection_event/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - pitchdetector (from `.symlinks/plugins/pitchdetector/ios`)
+  - screen (from `.symlinks/plugins/screen/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AudioKit
+    - FMDB
+    - mobile-ffmpeg-audio
+    - tau_sound_core
+
+EXTERNAL SOURCES:
+  audio_streamer:
+    :path: ".symlinks/plugins/audio_streamer/ios"
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  Flutter:
+    :path: Flutter
+  flutter_sequencer:
+    :path: ".symlinks/plugins/flutter_sequencer/ios"
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  gallery_saver:
+    :path: ".symlinks/plugins/gallery_saver/ios"
+  hardware_buttons:
+    :path: ".symlinks/plugins/hardware_buttons/ios"
+  headset_connection_event:
+    :path: ".symlinks/plugins/headset_connection_event/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  pitchdetector:
+    :path: ".symlinks/plugins/pitchdetector/ios"
+  screen:
+    :path: ".symlinks/plugins/screen/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  audio_streamer: af49e73eb66f71c4eeabb4bbcb05f122d03a6709
+  AudioKit: 57cc61d708f085763a031e5c3f87adae21dc4b59
+  camera: a0ca5080336f7af47b88436e5e26da3dee5568f0
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_sequencer: 0ef072d5145a7675bea148e83da34bafe53aad84
+  flutter_sound: 8ab146e2c11ba246e5c1477ff2608a4248cac552
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  gallery_saver: 9fc173c9f4fcc48af53b2a9ebea1b643255be542
+  hardware_buttons: 014f502132c734dc391a47e2b708728b1dd8bf32
+  headset_connection_event: 16b543526b51010174b267fd5feb139d97584891
+  mobile-ffmpeg-audio: adc36047b8032bc0f8e5c4e6ab7cb110189d9b37
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  pitchdetector: ca89af540a8dcc41299f4a54438f4e577f04010a
+  screen: abd91ca7bf3426e1cc3646d27e9b2358d6bf07b0
+  share: 0b2c3e82132f5888bccca3351c504d0003b3b410
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  tau_sound_core: 74ffbf8790d019cdd56200ca36038ec117b920c2
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+
+PODFILE CHECKSUM: fe5e039928e08cc3aa55730590fe5577354d32d2
+
+COCOAPODS: 1.10.0
